@@ -1,14 +1,24 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{21EE137D-5A13-E4D4-4FFC-F1AD72C4561D}") = "YellowBowl", "Assembly-CSharp.csproj", "{E0DA6169-00DA-96E9-EA7E-8E1D730AD3B9}"
+EndProject
+Project("{21EE137D-5A13-E4D4-4FFC-F1AD72C4561D}") = "YellowBowl", "Assembly-CSharp-Editor.csproj", "{40128201-57E5-D790-5E90-E77D1FB79E70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{E0DA6169-00DA-96E9-EA7E-8E1D730AD3B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0DA6169-00DA-96E9-EA7E-8E1D730AD3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0DA6169-00DA-96E9-EA7E-8E1D730AD3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0DA6169-00DA-96E9-EA7E-8E1D730AD3B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40128201-57E5-D790-5E90-E77D1FB79E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40128201-57E5-D790-5E90-E77D1FB79E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40128201-57E5-D790-5E90-E77D1FB79E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40128201-57E5-D790-5E90-E77D1FB79E70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
