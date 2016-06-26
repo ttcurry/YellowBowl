@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: a439ee03f862af94daea331b602d3d9f
+timeCreated: 1465186251
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: HI_mag01
+    100002: Uzi_cartridge
+    100004: Uzi_charge
+    100006: //RootNode
+    100008: Uzi_mag
+    100010: Uzi_mag_plate
+    100012: Uzi_mag_release
+    100014: Uzi_mag_spring
+    100016: Uzi_mag_spring_follower
+    100018: Uzi_main
+    100020: Uzi_rail
+    100022: Uzi_selector
+    100024: Uzi_shell
+    100026: Uzi_stock
+    100028: Uzi_trigger
+    400000: HI_mag01
+    400002: Uzi_cartridge
+    400004: Uzi_charge
+    400006: //RootNode
+    400008: Uzi_mag
+    400010: Uzi_mag_plate
+    400012: Uzi_mag_release
+    400014: Uzi_mag_spring
+    400016: Uzi_mag_spring_follower
+    400018: Uzi_main
+    400020: Uzi_rail
+    400022: Uzi_selector
+    400024: Uzi_shell
+    400026: Uzi_stock
+    400028: Uzi_trigger
+    2300000: Uzi_cartridge
+    2300002: Uzi_charge
+    2300004: Uzi_mag
+    2300006: Uzi_mag_plate
+    2300008: Uzi_mag_release
+    2300010: Uzi_mag_spring
+    2300012: Uzi_mag_spring_follower
+    2300014: Uzi_main
+    2300016: Uzi_rail
+    2300018: Uzi_selector
+    2300020: Uzi_shell
+    2300022: Uzi_stock
+    2300024: Uzi_trigger
+    3300000: Uzi_cartridge
+    3300002: Uzi_charge
+    3300004: Uzi_mag
+    3300006: Uzi_mag_plate
+    3300008: Uzi_mag_release
+    3300010: Uzi_mag_spring
+    3300012: Uzi_mag_spring_follower
+    3300014: Uzi_main
+    3300016: Uzi_rail
+    3300018: Uzi_selector
+    3300020: Uzi_shell
+    3300022: Uzi_stock
+    3300024: Uzi_trigger
+    4300000: Uzi_cartridge
+    4300002: Uzi_shell
+    4300004: Uzi_rail
+    4300006: Uzi_mag
+    4300008: Uzi_mag_spring
+    4300010: Uzi_mag_spring_follower
+    4300012: Uzi_stock
+    4300014: Uzi_main
+    4300016: Uzi_charge
+    4300018: Uzi_trigger
+    4300020: Uzi_mag_release
+    4300022: Uzi_selector
+    4300024: Uzi_mag_plate
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

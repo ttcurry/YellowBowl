@@ -191,6 +191,51 @@
  <Reference Include="UnityEngine.Analytics">
  <HintPath>E:/UTILITIES/Unity 5.4.0b19/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
+ <Reference Include="ConditionalExpression">
+ <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/ConditionalExpression.dll</HintPath>
+ </Reference>
+ <Reference Include="ConditionalExpressionEditor">
+ <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/ConditionalExpressionEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMakerEditor">
+ <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/PlayMakerEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMakerEditorResources">
+ <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/PlayMakerEditorResources.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMakerEditor.de.resources">
+ <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/de/PlayMakerEditor.de.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMakerEditor.es-ES.resources">
+ <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/es-ES/PlayMakerEditor.es-ES.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMakerEditor.fr.resources">
+ <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/fr/PlayMakerEditor.fr.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMakerEditor.it.resources">
+ <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/it/PlayMakerEditor.it.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMakerEditor.ja.resources">
+ <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/ja/PlayMakerEditor.ja.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMakerEditor.nl.resources">
+ <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/nl/PlayMakerEditor.nl.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMakerEditor.pt-BR.resources">
+ <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/pt-BR/PlayMakerEditor.pt-BR.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMakerEditor.sv-SE.resources">
+ <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/sv-SE/PlayMakerEditor.sv-SE.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMakerEditor.zh-CN.resources">
+ <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/zh-CN/PlayMakerEditor.zh-CN.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMakerEditor.zh-TW.resources">
+ <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/zh-TW/PlayMakerEditor.zh-TW.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMaker">
+ <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/Plugins/PlayMaker/PlayMaker.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>E:/UTILITIES/Unity 5.4.0b19/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>
@@ -200,53 +245,10 @@
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
  <HintPath>E:/UTILITIES/Unity 5.4.0b19/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
- <Reference Include="PlayMakerEditorResources">
- <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/PlayMakerEditorResources.dll</HintPath>
- </Reference>
- <Reference Include="PlayMakerEditor">
- <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/PlayMakerEditor.dll</HintPath>
- </Reference>
- <Reference Include="ConditionalExpressionEditor">
- <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/ConditionalExpressionEditor.dll</HintPath>
- </Reference>
- <Reference Include="PlayMakerEditor.zh-TW.resources">
- <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/zh-TW/PlayMakerEditor.zh-TW.resources.dll</HintPath>
- </Reference>
- <Reference Include="PlayMakerEditor.zh-CN.resources">
- <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/zh-CN/PlayMakerEditor.zh-CN.resources.dll</HintPath>
- </Reference>
- <Reference Include="PlayMakerEditor.es-ES.resources">
- <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/es-ES/PlayMakerEditor.es-ES.resources.dll</HintPath>
- </Reference>
- <Reference Include="PlayMakerEditor.it.resources">
- <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/it/PlayMakerEditor.it.resources.dll</HintPath>
- </Reference>
- <Reference Include="PlayMakerEditor.pt-BR.resources">
- <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/pt-BR/PlayMakerEditor.pt-BR.resources.dll</HintPath>
- </Reference>
- <Reference Include="PlayMakerEditor.de.resources">
- <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/de/PlayMakerEditor.de.resources.dll</HintPath>
- </Reference>
- <Reference Include="PlayMakerEditor.sv-SE.resources">
- <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/sv-SE/PlayMakerEditor.sv-SE.resources.dll</HintPath>
- </Reference>
- <Reference Include="PlayMakerEditor.nl.resources">
- <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/nl/PlayMakerEditor.nl.resources.dll</HintPath>
- </Reference>
- <Reference Include="PlayMakerEditor.ja.resources">
- <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/ja/PlayMakerEditor.ja.resources.dll</HintPath>
- </Reference>
- <Reference Include="ConditionalExpression">
- <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/ConditionalExpression.dll</HintPath>
- </Reference>
- <Reference Include="PlayMakerEditor.fr.resources">
- <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/PlayMaker/Editor/fr/PlayMakerEditor.fr.resources.dll</HintPath>
- </Reference>
- <Reference Include="PlayMaker">
- <HintPath>E:/FILES/WORK/YellowBowl/YellowBowl/Assets/Plugins/PlayMaker/PlayMaker.dll</HintPath>
- </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{ACD6D962-173E-A5EE-0FF5-383F5C8A5457}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{E0DA6169-00DA-96E9-EA7E-8E1D730AD3B9}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
